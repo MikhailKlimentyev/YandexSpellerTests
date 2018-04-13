@@ -16,11 +16,11 @@ import java.util.Collections;
 
 import javax.net.ssl.*;
 
-public class HttpsClient{
+public class HttpsClient_drafts {
 
     public static void main(String[] args)
     {
-        new HttpsClient().testIt();
+        new HttpsClient_drafts().testIt();
     }
 
     // "GOOGLE" solutions;
